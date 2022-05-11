@@ -1,1 +1,1 @@
-# vrec99.github.io-GetMI-
+# vrec99.github.io/getMI/
